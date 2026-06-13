@@ -1,0 +1,29 @@
+# Dependencies for Car Price Prediction using Machine Learning
+#
+# This project predicts the selling price of used cars using Machine Learning.
+# The dataset is preprocessed, analyzed through visualizations, and used to train
+# a Linear Regression model for price prediction.
+#
+# Features:
+# - Data preprocessing and feature engineering
+# - Exploratory Data Analysis (EDA)
+# - Correlation heatmaps and scatter plots
+# - Linear Regression model training
+# - Model evaluation using R² Score, MAE, MSE, and RMSE
+# - Feature importance analysis using Random Forest
+#
+# Core Dependencies:
+# - pandas: Data manipulation and analysis
+# - numpy: Numerical computing library
+# - matplotlib: Data visualization and plotting
+# - seaborn: Statistical data visualization
+# - scikit-learn: Machine learning algorithms and evaluation metrics
+#
+# Usage:
+# pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
